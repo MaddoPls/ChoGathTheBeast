@@ -8,7 +8,7 @@ using SharpDX;
 using LeagueSharp.Common;
 using Color = System.Drawing.Color;
 
-namespace ChoGath
+namespace ChoGathTheBeast
 {
     internal class Program
     {
